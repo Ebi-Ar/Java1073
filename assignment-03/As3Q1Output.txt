@@ -1,0 +1,16 @@
+As3Q1Output
+-------------
+Dog 1:
+	Name: Joo
+	Age: 2
+	Converted age: 14
+-------------
+Dog 2:
+	Name: Jii
+	Age: 6
+	Converted age: 42
+-------------
+Dog 3:
+	Name: Boo
+	Age: 10
+	Converted age: 70

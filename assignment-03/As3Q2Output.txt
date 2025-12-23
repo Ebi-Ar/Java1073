@@ -1,0 +1,34 @@
+As3Q2Output:
+----------
+Name: Sonia Jackson
+	participant number: 1234512345
+	Total funds: 98.0
+
+----------
+Name: Karl Wagner
+	participant number: 5246801135
+	Total funds: 114.6
+
+----------
+Name: Ivy Paul
+	participant number: 9834510621
+	Total funds: 188.2
+
+----------
+Name: Luca Conti
+	participant number: 7864236928
+	Total funds: 217.8
+
+
+--------------------
+Gift received by sonia: 19.6
+
+
+Gift received by karl: 17.189999999999998
+
+
+Gift received by ivy: 47.05
+
+
+Gift received by luca: 54.45
+
