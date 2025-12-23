@@ -1,0 +1,49 @@
+
+     Exhibitor Pass Details
+================================
+
+Pass Type: Exhibitor Pass
+Name: Ebi A
+ACM Member: true
+Number of Tables: 3
+Power Outlet Required: true
+Total Cost: $381.57
+
+Pass Type: Exhibitor Pass
+Name: King Kong
+ACM Member: false
+Number of Tables: 1
+Power Outlet Required: false
+Total Cost: $360.20
+
+     Attendee Pass Details
+================================
+
+Pass Type: Attendee Pass
+Name: Kim Kar
+ACM Member: true
+Total Banquet Tickets: 3
+Total Cost: $301.20
+
+Pass Type: Attendee Pass
+Name: Jacki Lee
+ACM Member: false
+Total Banquet Tickets: 1
+Total Cost: $270.00
+
+     Student Attendee Pass Details
+====================================
+
+Pass Type: Student Attendee Pass
+Name: Lee Chan
+ACM Member: true
+Total Banquet Tickets: 13
+Giveaway Item: T-shirt
+Total Cost: $577.20
+
+Pass Type: Student Attendee Pass
+Name: Meo Dog
+ACM Member: false
+Total Banquet Tickets: 2
+Giveaway Item: Travel mug
+Total Cost: $173.25

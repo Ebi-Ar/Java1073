@@ -1,0 +1,22 @@
+Worker's Name & Job Title	Rate of Pay	Pay this week
+=========================	============	===============
+Fiona Grant-Long (Busser)	$15.95  /hr	$231.27
+-------------------------
+Adriano Oliveira (Busser)	$15.75  /hr	$283.50
+-------------------------
+Aisha Adegboyega (Server)	$15.75  /hr	$285.30
+-------------------------
+Adeline Gagne (Sous Chef)	$23.50  /hr	$379.50
+-------------------------
+Nathaniel Paul (Sous Chef)	$25.75  /hr	$626.00
+-------------------------
+Brittany Phillips (Server)	$17.50  /hr	$679.45
+-------------------------
+Hoang Nguyen (Dishwasher)	$16.50  /hr	$693.00
+-------------------------
+Eleanor Ryan (Pastry Chef)	$22.00  /hr	$907.00
+-------------------------
+Jonathan Gorman (Server)	$16.50  /hr	$772.77
+-------------------------
+Laura Cox (Executive Chef)	$28.50  /hr	$1,360.88
+-------------------------
