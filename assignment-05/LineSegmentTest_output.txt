@@ -1,0 +1,35 @@
+
+--------------------------
+ToStrings: 
+
+line1: End points: 
+	Point A: CartesianPoint[x=2.0, y=-3.0]
+	point B: CartesianPoint[x=5.0, y=4.0]
+line2: End points: 
+	Point A: CartesianPoint[x=-4.0, y=2.0]
+	point B: CartesianPoint[x=4.0, y=2.0]
+line3: End points: 
+	Point A: CartesianPoint[x=1.0, y=1.0]
+	point B: CartesianPoint[x=4.0, y=4.0]
+
+--------------------------
+Lengths: 
+
+Length of line1 is: 7.615773105863909
+Length of line2 is: 8.0
+Length of line3 is: 4.242640687119285
+
+--------------------------
+Does it cross?
+
+Line 1 crosses at least one axis.
+Line 2 crosses at least one axis.
+Line 3 does not cross either axis.
+
+--------------------------
+Testings:
+
+Point 1 is on line 2.
+Point 2 is not on line 2.
+
+--------------------------
