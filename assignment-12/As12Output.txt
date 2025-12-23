@@ -1,0 +1,84 @@
+
+*** Test case #1: Create a ResidentMember object & test accessors
+Name:     Maria Diaz
+Unit #:   163
+Phone:    mdiaz03
+Member #: 100000
+Correct result: Maria has zero lending items.
+
+*** Test case #2: Create a StaffResidentMember object & test accessors
+Name:     Rory MacDonald
+Unit #:   306
+Phone:    rmacdo12
+Member #: 100001
+Departs:  Music Teacher
+Correct result: Rory has zero lending items.
+
+*** Test case #3: Automatically generate a member number
+Correct result: 100002 is the correct member number.
+
+*** Test case #4: Create a LibraryItem object & test accessors
+Description:    Skip-Bo (Card Game)
+Original Price: $11.25
+Alumni Donated: true
+
+*** Test case #5: Change name for StaffResidentMember
+Correct result: Rory's name successfully changed.
+
+*** Test case #6: Change room number for both resident types
+Correct result: Maria's room number successfully changed.
+Correct result: Rory's room number successfully changed.
+
+*** Test case #7: Sign out one LibraryItem
+Correct result: Maria signed out an item successfully.
+Correct result: Maria has one lending item.
+
+*** Test case #8: Sign out multiple LibraryItems
+Correct result: Maria signed out two more items successfully.
+Correct result: Maria has three lending items.
+
+*** Test case #9: Intentionally exceed the sign out limit
+Correct result: Maria was prevented from signing out more than 10 lending items.
+
+*** Test case #10: A staff resident tries to sign out items
+Correct result: Rory was prevented from signing out an alumni-donated item.
+Correct result: Rory was able to sign out a non-alumni-donated item.
+
+*** Test case #11: Returning the only item that was signed out
+Correct result: Rory's item was successfully returned.
+Correct result: Rory's list length changed appropriately.
+
+*** Test case #12: Returning an item that was not signed out
+Correct result: Unsuccessful attempt to return an item that was not signed out.
+
+*** Test case #13: Returning the first item that was signed out
+Correct result: Maria's first item was successfully returned.
+Correct result: Maria's list length changed appropriately.
+
+Confirm return: Skip-Bo should be absent from the following list:
+Connect 4 (Board Game)
+Frisbee
+Cribbage Board and Cards
+Codenames (Card Game)
+Badminton Raquets (2) and Birdies
+Ladder Ball Set
+Scrabble (Board Game)
+Spikeball Game Set
+Karaoke Machine
+
+*** Test case #14: Returning a mid-list item
+Correct result: Codenames (Card Game) was successfully returned.
+Correct result: Maria's list length changed appropriately.
+
+Confirm return: Codenames (Card Game) should be absent from the following list:
+Connect 4 (Board Game)
+Frisbee
+Cribbage Board and Cards
+Badminton Raquets (2) and Birdies
+Ladder Ball Set
+Scrabble (Board Game)
+Spikeball Game Set
+Karaoke Machine
+
+************* End of Test Cases ***************
+
