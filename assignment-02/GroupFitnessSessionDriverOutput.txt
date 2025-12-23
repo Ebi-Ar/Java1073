@@ -1,0 +1,12 @@
+session1: Group Fitness Session: Yoga Flow
+	Instructor: Anuja
+	Intensity Level: 3
+	Participants: 0
+session2: Group Fitness Session: Aquafit Express
+	Instructor: Wendy
+	Intensity Level: 1
+	Participants: 0
+session3: Group Fitness Session: Mat Pilates
+	Instructor: Chinasa
+	Intensity Level: 6
+	Participants: 0

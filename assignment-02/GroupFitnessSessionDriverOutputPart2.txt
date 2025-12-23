@@ -1,0 +1,17 @@
+Sign ups: 
+session1: Group Fitness Session: Yoga Flow
+	Intensity Level: 3
+	Participants: 14
+	location: Head Hall
+session2: Group Fitness Session: Aquafit Express
+	Intensity Level: 1
+	Participants: 18
+	location: China Town
+session3: Group Fitness Session: Mat Pilates
+	Intensity Level: 6
+	Participants: 21
+	location: Windsor Hall
+session4: Group Fitness Session: 007
+	Intensity Level: 10
+	Participants: 0
+	location: United Kingdom
